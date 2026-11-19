@@ -1,0 +1,12 @@
+Line 37 | Invalid quantity: abc | Taylor Smith,Mouse,abc,29.98
+Line 128 | Missing Qty | Jordan Lee,Monitor,,199.99
+Line 219 | Missing Price Total | Casey Brown,Keyboard,2,
+Line 341 | Missing Customer | ,Webcam,3,119.97
+Line 468 | Invalid quantity: must be positive | Alex Morgan,Headset,-2,-99.98
+Line 572 | Invalid price: not_a_price | Jamie Davis,Mouse,2,not_a_price
+Line 689 | Missing Item | Robin Allen,,1,29.99
+Line 743 | Missing Price Total | Avery Miller,Monitor,1,
+Line 866 | Missing Price Total | Sam Wilson,Keyboard,2,
+Line 974 | Invalid price: cannot be negative | Blake King,Webcam,1,-39.99
+Line 1082 | Invalid quantity: 2.5 | Quinn Lewis,Headset,2.5,124.98
+Line 1167 | Invalid quantity: must be positive | Reese Walker,Mouse,0,0
